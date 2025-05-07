@@ -6,37 +6,85 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 27,
-                        "durationMicroseconds": 2719,
+                        "durationMicroseconds": 1390,
                         "errorMessage": "",
                         "functionName": "fill",
-                        "line": 14
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 33,
-                        "durationMicroseconds": 245,
-                        "errorMessage": "",
-                        "functionName": "backgroundMode",
-                        "line": 17
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 35,
-                        "durationMicroseconds": 66,
-                        "errorMessage": "",
-                        "functionName": "controlledObject",
-                        "line": 26
+                        "line": 12
                     },
                     {
                         "codegenSuccessfull": false,
-                        "column": 16,
+                        "column": 51,
+                        "durationMicroseconds": 647,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: call to method vector3d, returning QVariant -> QVector3D stored as QVariant",
+                        "functionName": "position",
+                        "line": 13
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 107,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
                         "durationMicroseconds": 0,
-                        "errorMessage": "Could not find property \"model\".",
-                        "functionName": "model",
-                        "line": 32
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 56
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 60
                     }
                 ],
-                "filepath": "C:/Users/lokhm/Projects/qt-projects/table_control/Main.qml"
+                "filepath": "C:/Users/Lenovo/Documents/GitHub/table_control_app/Main.qml"
             }
         ],
         "moduleId": "table_control(apptable_control)"

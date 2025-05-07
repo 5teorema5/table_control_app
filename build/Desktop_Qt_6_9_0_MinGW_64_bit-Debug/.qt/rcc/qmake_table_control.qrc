@@ -1,6 +1,6 @@
 <RCC>
   <qresource prefix="/qt/qml/table_control">
-    <file alias="qmldir">C:/Users/lokhm/Projects/qt-projects/table_control/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/table_control/qmldir</file>
+    <file alias="qmldir">C:/Users/Lenovo/Documents/GitHub/table_control_app/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/table_control/qmldir</file>
   </qresource>
 </RCC>
 

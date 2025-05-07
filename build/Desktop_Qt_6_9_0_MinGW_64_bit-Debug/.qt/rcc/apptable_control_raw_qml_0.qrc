@@ -1,7 +1,7 @@
 <RCC>
   <qresource prefix="/qt/qml/table_control/">
-    <file alias="Main.qml">C:/Users/lokhm/Projects/qt-projects/table_control/Main.qml</file>
-    <file alias="src/resources.qrc">C:/Users/lokhm/Projects/qt-projects/table_control/src/resources.qrc</file>
+    <file alias="Main.qml">C:/Users/Lenovo/Documents/GitHub/table_control_app/Main.qml</file>
+    <file alias="src/resources.qrc">C:/Users/Lenovo/Documents/GitHub/table_control_app/src/resources.qrc</file>
   </qresource>
 </RCC>
 
