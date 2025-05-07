@@ -1,0 +1,5 @@
+module table_control
+typeinfo apptable_control.qmltypes
+prefer :/qt/qml/table_control/
+Main 1.0 Main.qml
+
